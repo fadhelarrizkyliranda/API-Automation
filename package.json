@@ -1,0 +1,25 @@
+{
+  "name": "api-automation",
+  "version": "1.0.0",
+  "description": "Tugas API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadhelarrizkyliranda/API-Automation.git"
+  },
+  "author": "Fadhel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadhelarrizkyliranda/API-Automation/issues"
+  },
+  "homepage": "https://github.com/fadhelarrizkyliranda/API-Automation#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "mochawesome": "^7.1.3",
+    "supertest": "^6.3.3"
+  }
+}
